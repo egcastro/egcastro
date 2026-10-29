@@ -1,16 +1,21 @@
-### Hi there 👋
+## Hi, I’m Emiliano
 
-<!--
-**egcastro/egcastro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Principal Software Engineer at Snyk, working at the intersection of product direction, AI systems, and platform architecture.
 
-Here are some ideas to get you started:
+I turn complex technologies into useful product experiences—from dashboards and data visualization to interfaces for AI agents.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I work on
+
+- **AI products and platforms:** customer-facing product and technical strategy for Evo, including conversational interfaces and MCP integrations.
+- **Frontend architecture:** shared platforms, design systems, modernization, and developer experience across engineering teams.
+- **Technical leadership:** connecting product vision with implementation, mentoring engineers, and leading a frontend platform team.
+
+Previously, I helped build New Relic’s dashboarding, data visualization, and data exploration products and platforms.
+
+### What I’m building
+
+My personal projects explore agent-driven software delivery, reusable tooling, and the validation needed to make automated workflows reliable.
+
+Much of my professional work lives in company repositories. This profile brings together the projects, experiments, and technical writing I can share publicly.
+
+[LinkedIn](https://www.linkedin.com/in/emilianocastro/)
